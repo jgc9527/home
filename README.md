@@ -212,7 +212,7 @@ if (type == 0) {
 
 #### 网站图标
 
-可以在 `public/images/icon` 中修改网站图标。
+可以在 `public/images/icon` 中修改网站图标
 
 ### 技术栈
 
