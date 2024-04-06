@@ -23,12 +23,6 @@
     "tip": "来封 Email ~",
     "url": "mailto:mail@kabaka.xyz"
   },
-  // {
-  //  "name": "Twitter",
-  //  "icon": "/images/icon/twitter.png",
-  //  "tip": "你懂的 ~",
-  //  "url": "https://twitter.com/"
-  // },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
